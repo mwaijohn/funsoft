@@ -8,7 +8,7 @@ function Login() {
 
     const go = (e) => {
         e.preventDefault();
-        navigate("/cash-collection")
+        navigate("/funsoft/cash-collection")
     }
     return (
         <section class="bg-gray-50">
