@@ -8,6 +8,7 @@ function PageRoutes() {
     return (
         <Routes>
             <Route path='/login' element={<Login/>} />
+            <Route path='/' element={<Login/>} />
             <Route path='/cash-collection' element={<ComponentsWithSidebar>
                 <CashCollection />
             </ComponentsWithSidebar>} />
