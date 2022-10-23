@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/funsoft/static/css/main.098eb5fb.css",
-    "main.js": "/funsoft/static/js/main.2fc2cbf3.js",
+    "main.js": "/funsoft/static/js/main.1594e957.js",
     "static/js/787.b0823f7d.chunk.js": "/funsoft/static/js/787.b0823f7d.chunk.js",
     "index.html": "/funsoft/index.html",
     "main.098eb5fb.css.map": "/funsoft/static/css/main.098eb5fb.css.map",
-    "main.2fc2cbf3.js.map": "/funsoft/static/js/main.2fc2cbf3.js.map",
+    "main.1594e957.js.map": "/funsoft/static/js/main.1594e957.js.map",
     "787.b0823f7d.chunk.js.map": "/funsoft/static/js/787.b0823f7d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.098eb5fb.css",
-    "static/js/main.2fc2cbf3.js"
+    "static/js/main.1594e957.js"
   ]
 }
